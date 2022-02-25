@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reasons why a learned and reverend divine hath lately taken the oaths to their Majesties King William and Queen Mary, in a letter to a friend</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60834</idno>
+            <idno type="STC">Wing S4581</idno>
+            <idno type="STC">ESTC R17991</idno>
+            <idno type="EEBO-CITATION">11936322</idno>
+            <idno type="OCLC">ocm 11936322</idno>
+            <idno type="VID">51196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reasons why a learned and reverend divine hath lately taken the oaths to their Majesties King William and Queen Mary, in a letter to a friend</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probably referring to William Sherlock.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:51196:1"/>
+            <pb n="1" facs="tcp:51196:1"/>
+            <head>Some Reaſons why a Learned and Reverend Divine hath lately taken the Oaths to their Majeſties King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </head>
+            <head>In a Letter to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Thank you for the favour of Commu<g ref="char:EOLhyphen"/>nicating the grateful (tho I cannot ſay unexpected) News of an eminent Divine of our Church, who has a long time ſcrupled the Oaths to their preſent Majeſties, has now at laſt anſwered all his Doubts, and reconciled his Judgment to the Intereſt of the Proteſtant Religion, by affording his Talent to the ſupport of their preſent Majeſties, who, under God, are now the Defenders of it, not only here, but all <hi>Europe</hi> over. I wiſh your next Letter might bring me the much to be wiſhed for Account of all our Wor<g ref="char:EOLhyphen"/>thy Prelates and Divines, who have la<g ref="char:EOLhyphen"/>boured long under that Difficulty, ob<g ref="char:EOLhyphen"/>taining the like Victory.</p>
+            <p>And whereas you, at the ſame time, give me to know the Diſcourſes of ſe<g ref="char:EOLhyphen"/>veral Men, who are no great Lovers of our Church, about it; as if this great Man ſeemed to be ruled by Intereſt in this Affair, becauſe he has ſtood out ſo long, and now (as they think) all of a ſudden taken it, I ſhall beg the Liberty of briefly giving you my Sentiments about it.</p>
+            <p>And firſt, All own that an Oath is a Sa<g ref="char:EOLhyphen"/>cred thing, and therefore requires the greateſt Deliberation in the World before it be taken. An inconſiderate Man may raſhly venture upon an Oath, but a think<g ref="char:EOLhyphen"/>ing, and an honeſt conſtant Man, will be loath to engage himſelf by any Oath, till he has fully conſidered all that may fol<g ref="char:EOLhyphen"/>low upon it, which muſt needs coſt a Man ſome time: But eſpecially, when Scru<g ref="char:EOLhyphen"/>ples ariſe, that the Oath impoſed upon, interferes with another Oath formerly taken, then it muſt needs cauſe great Wreſtlings in the Mind of a truly honeſt Man, which cannot be eaſily appeaſed, which was the Caſe of this Famous Di<g ref="char:EOLhyphen"/>vine. It's to be fear'd there are too many who have taken the Oath with little or no Deliberation, who are more to be Cenſured, than he, who rather than he would take it with the minuteſt ſcruple, would run the hazzard of Tem<g ref="char:EOLhyphen"/>poral Inconveniencies.</p>
+            <p>And in the next place, when the Oath impoſed, ſeems to contradict former O<g ref="char:EOLhyphen"/>pinions, it muſt needs render a perſon very averſe from taking of it, and take up a great deal of time before he can di<g ref="char:EOLhyphen"/>veſt himſelf of thoſe Principles. You and all Men know ſufficiently, that it has been the Opinion of many of the Clergy of <hi>England,</hi> that an Oath taken to a Prince, obliges the Subject to him for his Life-time, if he were the greateſt Op<g ref="char:EOLhyphen"/>preſſor that ever lived. And therefore it muſt needs be ſuppoſed, That this Re<g ref="char:EOLhyphen"/>verend Perſon could not eaſily, and in a ſhort time, get free of this difficulty.</p>
+            <p>Thoſe Perſons ought rather to rejoyce, that thoſe Tenets that have been foiſted into our Church, no leſs prejudicial to the King than the Subjects, (as late Ex<g ref="char:EOLhyphen"/>perience demonſtrates beyond all con<g ref="char:EOLhyphen"/>tradiction) are now juſtly repudiated, as the principal Cauſes of all the Miſeries we have met with, than to vent their Spleen
+<pb n="2" facs="tcp:51196:2"/>againſt a Learned Gentleman, for not having his Conſcience at their Beck.</p>
+            <p>I may likewiſe add, That ſuch is the Nature of Man, that even in the beſt of Men there is a Vanity of retaining their former Opinions, leſt by changing them, however prejudicial otherwiſe they may be, they ſhould undergo the Impu<g ref="char:EOLhyphen"/>tation of Changlings. I do not ſay this is the Caſe of any, but even a good Man may even be Byaſt with this, and it may be a long time before this may be over<g ref="char:EOLhyphen"/>come.</p>
+            <p>I ſhall here add ſome few of thoſe many weighty Reaſons or Conſiderations which I humbly conceive have prevailed with this Reverend Perſon to take the Oaths.</p>
+            <p>
+               <hi>Reaſon</hi> I. Becauſe it is evident, That no Rule or Form of Government is pre<g ref="char:EOLhyphen"/>ſcribed by the Law of God and Nature; for that then they would be both immu<g ref="char:EOLhyphen"/>table, and the ſelf-ſame in all Countries, but Almighty <hi>God</hi> concurreth or permit<g ref="char:EOLhyphen"/>teth ſuch particular Forms which the Common-wealth appoints. Can any Man ſay, That <hi>God</hi> did not concur as well with <hi>Italy</hi> when it had but one Prince, as now when it hath ſo many; and the like with <hi>Germany,</hi> and alſo with <hi>Switzerland,</hi> which was once one Com<g ref="char:EOLhyphen"/>mon-wealth, under the Dukes of <hi>Auſtria? England</hi> alſo was firſt a Monarchy under the <hi>Brittains,</hi> and then a Province under the <hi>Romans,</hi> and after that divided into Seven Kingdoms at once, under the <hi>Saxons,</hi> and after them of the <hi>Danes,</hi> and then the <hi>Normans,</hi> and then the <hi>French,</hi> and now a Monarchy again under the <hi>Engliſh,</hi> and all this by <hi>God</hi>'s Providence and Permiſſion, who ſuffered his own peculiar People the <hi>Jews</hi> to be under di<g ref="char:EOLhyphen"/>vers manner of Governments at divers times; as firſt under the Patriarchs, <hi>A<g ref="char:EOLhyphen"/>braham, Iſaac,</hi> and <hi>Jacob;</hi> then under Captains, as <hi>Moſes, Ioſhua,</hi> and the like; then under Judges, as <hi>Othoniel,</hi> &amp;c. then under High-Prieſts, as <hi>Eli</hi> and <hi>Samuel;</hi> then under Kings, as <hi>Saul, David,</hi> and ſo on, until the Government was laſtly taken from them, and they brought un<g ref="char:EOLhyphen"/>der the Power of the <hi>Romans.</hi> And laſt of all, That <hi>God</hi> does concur with what Magiſtrate or Magiſtrates the Commu<g ref="char:EOLhyphen"/>nity thinks fit to appoint, is plain by the Teſtimony of Holy Scripture, as when <hi>God</hi> ſaid to <hi>Solomon, By me Kings Rule, and Nobles, even all the Judges of the Earth,</hi> Prov. 8.16. that is, by His Per<g ref="char:EOLhyphen"/>miſſion they Govern, tho' Choſen by the People: And St. <hi>Paul</hi> to the <hi>Romans</hi> a<g ref="char:EOLhyphen"/>voucheth, that <hi>Authority is not but of</hi> God, <hi>and therefore he that reſiſteth Au<g ref="char:EOLhyphen"/>thority, reſiſteth</hi> God, <hi>Rom.</hi> 13. which is to be underſtood of Authority, Power, and Juriſdiction in it ſelf, according to the Laws of every Country<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>Reaſon</hi> II. Becauſe Allegiance is no<g ref="char:EOLhyphen"/>thing but Obedience according to Law, which when the Prince violates, he has no right to Obedience, there being a mutual Obligation between the King and People, which, whether it be only Civil or Natural, <hi>tacit,</hi> or in expreſs Words, can be taken away by no Agreements, violated by no Law, reſcinded by no Force; for a Kingdom is nothing elſe but the mutual Stipulation between the People and their Kings: The Supream Authority of a Nation belonging to thoſe who have the Legiſlative Authority re<g ref="char:EOLhyphen"/>ſerved to them; but not to thoſe who have only the Executive, which is plain<g ref="char:EOLhyphen"/>ly a Truſt, when it is ſeparated from the Legiſlative Power; and all Truſts by their nature import, That thoſe to whom they are given, are accountable, tho' no ſuch condition is ſpecified. If the Subject may in no caſe Reſiſt, then there can be no Law but the Will and Pleaſure of the Prince; for whoſoever muſt be oppoſed in nothing, may do every thing.</p>
+            <p>If the King Sue, by pretence of Law, and endeavour to take away my Money,
+<pb n="3" facs="tcp:51196:2"/>my Houſe, or my Land, I may defend them by the Law; but if he comes Ar<g ref="char:EOLhyphen"/>med to take away my Liberty, Life, and Religion, which are mine by the Laws of <hi>God</hi> and Man, may I not ſecure them with a good Conſcience; for moſt cer<g ref="char:EOLhyphen"/>tain, every Man has a right to pre<g ref="char:EOLhyphen"/>ſerve himſelf, his Rights and Priviledges, againſt him who has no Authority to In<g ref="char:EOLhyphen"/>vade them: And this was the Caſe of <hi>Moſes,</hi> who ſeeing an <hi>Egyptian</hi> Smiting an <hi>Hebrew,</hi> he Slew him: And <hi>Sampſon</hi> made War upon the <hi>Philiſtines,</hi> for burn<g ref="char:EOLhyphen"/>ing his Wife and her Father, who were both but private Perſons, who knew they could have no other kind of Juſtice a<g ref="char:EOLhyphen"/>gainſt them, but what the Law of Na<g ref="char:EOLhyphen"/>ture gives every Man.</p>
+            <p>When once the Chriſtian Religion is become a part of the Subjects Property, by the Laws and Conſtitutions of the Country, then it is to be conſidered as one of their Principal Rights, and ſo may be defended as well as any other Civil Right: Since that theſe different Forms of Government, that the <hi>Iews</hi> were un<g ref="char:EOLhyphen"/>der, is no Rule for the Government of any Nation or People whatſoever. That Cauſe is Juſt which defends the Laws which protects the <hi>Common Good,</hi> which ſhall preſerve the Realm: And that Cauſe is unjuſt which violates the Laws, defends the Breakers of the Laws, pro<g ref="char:EOLhyphen"/>tects the Subverters of the Country. That is Juſt which will deſtroy Tyranni<g ref="char:EOLhyphen"/>cal Government: That Unjuſt which would Aboliſh juſt Government: That Lawful which tends to the Publick Good: That Unlawful which tends to the Pri<g ref="char:EOLhyphen"/>vate.</p>
+            <p>
+               <hi>Reaſon</hi> III. The Children of <hi>Iſrael</hi> ſlew <hi>Amaſiah,</hi> their lawful King, for his Ido<g ref="char:EOLhyphen"/>latry, without any appointment in Scrip<g ref="char:EOLhyphen"/>ture, or Propheſie of his Downfal; and yet that this is no where called Rebelli<g ref="char:EOLhyphen"/>on, neither were they Puniſhed by his Son, whom they had made King in his Father's Stead. <hi>Mattathias</hi> ſlew the King's Commiſſioner, for compelling Men to Idolatry. The <hi>Edom<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>s</hi> Revolted from <hi>Jehoram,</hi> and made themſelves a King. And <hi>Lib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah</hi> did alſo Revolt, be<g ref="char:EOLhyphen"/>cauſe of his Evil Government, 2 <hi>Chron.</hi> 21. without any appointment or foretelling of their Revolt by God in Scripture, or being called Rebels. <hi>Saul</hi>'s Subjects Swore, that <hi>Saul</hi> ſhould not kill <hi>Ionathan,</hi> and they reſcued him that he died not, 1 <hi>Sam.</hi> 14.45. <hi>David</hi> (tho' a private Man) Armed himſelf with Six hundred Men, no doubt but he deſigned to have Fought <hi>Saul</hi> and his Army, if the Men of <hi>Keliah</hi> would have aſſiſted him, and been true to him; when he enquired of the Lord, Whether the Men of <hi>Keliah</hi> would deliver him and his Men into the hands of <hi>Saul?</hi> upon the Lords anſwer<g ref="char:EOLhyphen"/>ing, <hi>They would deliver them up,</hi> he and his Men departed the City, 1 <hi>Sam.</hi> 23.23. can any Man imagine their meaning was to run up and down the Country toge<g ref="char:EOLhyphen"/>ther, and fly before <hi>Saul</hi> and his Army, if they had been able to cope with any number he could bring or ſend againſt them? If Reſiſtance, at all times, was Unlawful, and a Sin, ſurely <hi>David,</hi> a Man after God's own Heart, would have known it, and then he would not have Involved the Six hundred Men that came to his Aſſiſtance, in the Sin of Rebellion, but have told them, that the Prince was not to be Reſiſted, though never ſo great a Tyrant. <hi>Canstantine</hi> the Great, aided the Oppreſſed Chriſtians and <hi>Romans</hi> a<g ref="char:EOLhyphen"/>gainſt the Tyranny and Perſecution of the Emperors <hi>Maxentius</hi> and <hi>Maximinius,</hi> with force of Arms, with which he Con<g ref="char:EOLhyphen"/>quered thoſe Perſecutors in ſeveral Bat<g ref="char:EOLhyphen"/>tles, Fought againſt them at the Chriſti<g ref="char:EOLhyphen"/>ans earneſt Importunity. The Primitive Chriſtians reſiſted <hi>Lucinius</hi> their Emperor, for Perſecuting them contrary to Law; and <hi>Conſtantine</hi> the Great joyned with them, who held it his Duty, ſaith <hi>Euſebius,</hi>
+               <pb n="4" facs="tcp:51196:3"/>to deliver an infinite multitude of Men, by cutting off a few Wicked ones, as the Peſt and Plagues of the Time. The Pri<g ref="char:EOLhyphen"/>mitive Chriſtians of <hi>Conſtantinople</hi> oppoſed <hi>Aſpers</hi> being made Emperor; but <hi>Leo</hi> being named, they conſented thereto. The Primitive Chriſtians, under the King of <hi>Perſia,</hi> reſiſted him for Perſecuting them, and was aſſiſted by <hi>Theodotius</hi> the <hi>Roman</hi> Emperor, who told the King of <hi>Perſia,</hi> He was ready to defend them, and no way to ſee them ſuffer for Religion. The Chriſtians of <hi>Armenia</hi> the Greater, made a League with the <hi>Romans</hi> for the ſecuring their Perſons and their Religion, againſt the <hi>Perſians,</hi> under whom they lived. The <hi>Novations,</hi> aſſiſted by the <hi>Orthodox,</hi> reſiſted and beat the <hi>Macedo<g ref="char:EOLhyphen"/>nians,</hi> though they were aſſiſted by <hi>Con<g ref="char:EOLhyphen"/>ſtantinus</hi> the Emperor, with Four Thou<g ref="char:EOLhyphen"/>ſand Men to drive them from <hi>Paplelogonia.</hi> The Primitive Chriſtians likewiſe deſtroy<g ref="char:EOLhyphen"/>ed <hi>Julians</hi> Idolatrous Temple in his Reign.</p>
+            <p>
+               <hi>Reaſon</hi> IV. It is not our buſineſs to enquire into the Juſtice of all that contributed to this late Revolution in <hi>England,</hi> that being nothing to our Caſe, who had no hand in it, and ſo have nothing to anſwer for it to God nor Man; ſuppoſing it were an ill thing in it ſelf, or that the Managers of it acted upon evil Principles, took ill Methods, or had bad Ends, we may and ought to leave this to be juſtified by thoſe whom it doth con<g ref="char:EOLhyphen"/>cern, (who have already done it beyond all contradiction) we have performed our Oath to the late King ſo long as he was in a Capacity to receive it; and many of us have had no hand in putting him out of that Capacity: But whether his own de<g ref="char:EOLhyphen"/>ſerting us, or the preſent Kings Conqueſt, did Deveſt him, this is certain, that he is now Deveſted of all Power to Protect or Govern us here, as much as if he were actually Dead. And truly, unleſs there be ſome Caſes beſides Natural Death, in which our Oath ceaſeth to Bind us, the caſe of Subjects may be extreamly Intol<g ref="char:EOLhyphen"/>lerable. Particularly in <hi>Portugal,</hi> all the Subjects muſt be ſaid to be Perjur'd, when they Sware to a new King while <hi>Alphonſo</hi> was living: It muſt therefore be granted, that Madneſs &amp; Conqueſt may ſo far take off the Obligation of a People to their liv<g ref="char:EOLhyphen"/>ing King, that they may innocently Swear to another: And it is clear, that both theſe concurred in our Caſe.</p>
+            <p>We are Private Subjects, and muſt pay our Allegiance to him that adminiſters us Law and Juſtice, and doth Protect us in all Capacities. If any wrong us in our Eſtates, or hurt our Perſons, we fly to their preſent Majeſties Laws for Redreſs, and that ſeems the ſame thing as owning them, or Swearing Allegiance, unleſs we think we may make uſe of this Govern<g ref="char:EOLhyphen"/>ment to ſerve our own Ends, and do no<g ref="char:EOLhyphen"/>thing to ſerve and ſecure it.</p>
+            <p>
+               <q>It is heartily to be wiſhed for, by all Good Men, that thoſe Reverend Perſons who ſtill ſtand out, would lay aſide all Prejudice; and, for the Church's ſake, in which they ſeem to make a Schiſm; for their Native Countries ſake, which they ſeem to expoſe by this Diviſion; for their complying Brethrens ſake, who Pity and Pray for them; and for their own and Families ſake, they would not let a <hi>Notion in Politicks</hi> keep them at this di<g ref="char:EOLhyphen"/>ſtance, and bring ſo many Calamities on them. The Oath is ſhort and modeſt, nothing but what is very neceſſary, and required in all Governments; therefore why ſhould they, for a nicety and ſcruple, which may be fully ſatisfied and ſolved, endanger their Religion and the whole Nation, and give ſuch advantages to <hi>Papiſts,</hi> by countenancing them, and to the <hi>Fanaticks,</hi> by oppoſing the preſent Government, who do not fail to repre<g ref="char:EOLhyphen"/>ſent it even to the Church's prejudice.</q>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year,. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
